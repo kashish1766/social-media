@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1730738540892,
+    "userId": 1730738158256,
+    "title": "My First Private Post",
+    "description": "This is a private post.",
+    "visibility": "private",
+    "likes": 0,
+    "comments": []
+  },
+  {
+    "id": 1730738772940,
+    "userId": 1730738295562,
+    "title": "My First Private Post",
+    "description": "This is a private post.",
+    "visibility": "public",
+    "likes": 0,
+    "comments": []
+  },
+  {
+    "id": 1730818017966,
+    "userId": 1730817465624,
+    "title": "My First Post",
+    "description": "This is a trial post.",
+    "visibility": "public",
+    "likes": 0,
+    "comments": []
+  }
+]

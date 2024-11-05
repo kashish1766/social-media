@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1730735699707,
+    "email": "user@example.com",
+    "password": "$2b$10$79xrx5sjkJ0xNrcvj/shBer7jue8Eb8FMCVPapu8YW.U0523X3Gl2",
+    "role": "registered",
+    "followers": [],
+    "following": [
+      1730736381689
+    ]
+  },
+  {
+    "id": 1730736381689,
+    "email": "user@example.in",
+    "password": "$2a$10$Tugk/Nri5V22c51K0q5Jt.UI4FP.aKxlGgHPDIlSBYFofizreXrHa",
+    "role": "registered",
+    "followers": [
+      1730735699707
+    ],
+    "following": []
+  },
+  {
+    "id": 1730738158256,
+    "email": "user1@example.com",
+    "password": "$2a$10$QDZIZwRlr9PCBMcRFwNobulqNjRRb/GcGtfeneyaZGgb0Purw6nbi",
+    "role": "user",
+    "followers": [],
+    "following": []
+  },
+  {
+    "id": 1730738295562,
+    "email": "user12@example.com",
+    "password": "$2a$10$EhqmHWj28z.CaePjqsDzIuyb8Asphm6l4iE692AFFT2CmNp1yc0fK",
+    "role": "admin",
+    "followers": [],
+    "following": []
+  },
+  {
+    "id": 1730817465624,
+    "email": "jashitgoyal@gmail.com",
+    "password": "$2a$10$rcU9CicaAsfc5StrVoN5Ju3Sus4f0mp2jNdHO6nrjgtUtvqUATXka",
+    "role": "admin",
+    "followers": [],
+    "following": []
+  }
+]
